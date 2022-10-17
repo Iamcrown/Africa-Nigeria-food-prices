@@ -8,7 +8,7 @@ st.markdown('''
 ''')
 
 
-df = pd.read_csv("./Data set/Nigeria Food Prices.csv") 
+df = pd.read_csv("./Nigeria Food Prices.csv") 
 st.write(df)
 
 z= df["produce"].value_counts().head()
