@@ -1,0 +1,4 @@
+Streamlit==1.13.0
+Matplotlib==3.5.1
+Pandas==1.4.2
+Numpy==1.21.5
